@@ -5,6 +5,8 @@ Welcome to Q-Verse, your portal to the enchanting world of Haruki Murakami's boo
 ## What's Q-Verse All About?
 Q-Verse is a web-based adventure that introduces you to a selection of Haruki Murakami's books. Each book is presented with its title, author, genre, and a glimpse into its world, all wrapped in a captivating design. 📚🎉
 
+<img width="500" alt="Screenshot 2024-01-18 at 9 36 07 AM" src="https://github.com/LSeward0421/q_verse/assets/114787710/cc6e9975-9b4f-4c17-8bed-a2b6a7f8e64b">
+
 ## Technologies Behind the Curtain 🪄
 - **HTML:** For the structural foundation of our web adventure.
 - **CSS:** Weaved in to add vibrant colors and dynamic charm.
