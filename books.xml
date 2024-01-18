@@ -10,12 +10,20 @@
         <title>Kafka on the Shore</title>
         <author>Haruki Murakami</author>
         <genre>Fantasy, Magical Realism</genre>
-        <description>An intricate tale blending reality and the supernatural.</description>
+        <description>An intricate tale blending reality and the supernatural.
+        </description>
     </book>
     <book id="3">
         <title>1Q84</title>
         <author>Haruki Murakami</author>
         <genre>Fiction, Science Fiction</genre>
-        <description>A gripping novel set in a dystopian version of the year 1984.</description>
+        <description>A gripping novel set in a dystopian version of the year 1984.
+        </description>
+    </book>
+    <book id="4">
+        <title>Killing Commendatore</title>
+        <author>Haruki Murakami</author>
+        <genre>Fiction, Science Fiction</genre>
+        <description>A haunting and enigmatic novel that follows the journey of a talented artist as he discovers a hidden painting.</description>
     </book>
 </murakamiBooks>
